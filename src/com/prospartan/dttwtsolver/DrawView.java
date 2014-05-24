@@ -22,6 +22,6 @@ public class DrawView extends View
   @Override
   public void onDraw(Canvas cancas)
   {
-    canvas.drawLine(0, 500, 540, 500, paint);
+    canvas.drawLine(0, 550, 540, 550, paint);
   }
 }
